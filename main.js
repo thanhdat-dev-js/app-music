@@ -21,26 +21,26 @@ const songs = [
         name: "Trạm khí tượng",
         singer: "Quên xem",
         path: "https://thanhdat4421.github.io/app-music/assets/song/TramKhiTuong-Uu-7005868.mp3",
-        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/2/d/1/92d1087e7b366b4cf7d1539d37e5f610.jpg"
+        image: "https://photo-zmp3.zadn.vn/audio_default.png"
     },
     {
         name: "Chờ em nói câu xin chào trước",
         singer: "Ca sĩ người Trung",
         path: "https://thanhdat4421.github.io/app-music/assets/song/ChoEmNoiCauXinChaoTruoc-KD-5726613.mp3",
-        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/7/c/517ca58e0bb720d2e469e96259ef2bdd.jpg"
+        image: "https://photo-zmp3.zadn.vn/audio_default.png"
     },
     {
         name: "Haru Haru",
         singer: "Big Bang",
         path: "https://thanhdat4421.github.io/app-music/assets/song/8012948398759953196.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e83bc89e7fed15678fab7e749509c3c3_1289491851.jpg"
-    }
-    // {
-    //     name: "Chiều thu họa bóng nàng",
-    //     singer: "Ca sĩ bí ẩn",
-    //     path: "https://thanhdat4421.github.io/app-music/assets/song/7049726035475036059.mp3",
-    //     image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg"
-    // },
+    },
+    {
+        name: "Dù cho mai về sau",
+        singer: "Ca sĩ bí ẩn",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/DuChoMaiVeSau-buitruonglinh-6818907.mp3",
+        image: "https://photo-zmp3.zadn.vn/audio_default.png"
+    },
     // {
     //     name: "Giá như cô ấy chưa xuất hiện",
     //     singer: "Miu Lê",
