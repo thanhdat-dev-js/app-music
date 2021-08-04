@@ -51,14 +51,27 @@ body {
   background-position: center;
   background-size: cover;
 }
-.dashboard input {
+.dashboard .input_container {
+  position: relative;
+  height: 6px;
+}
+.dashboard .progress {
   width: 100%;
+  -webkit-appearance: none;
   height: 6px;
   background: #d3d3d3;
   outline: none;
   opacity: 0.7;
   -webkit-transition: 0.2s;
   transition: opacity 0.2s;
+}
+.dashboard .progress::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 6px;
+  background-color: #ec1f55;
+  cursor: pointer;
 }
 
 .control {
