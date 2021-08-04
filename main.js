@@ -153,7 +153,7 @@ class App {
             audio.play();
             animation.play();
         }
-        setInterval(this.updateProgress(), 2000);
+        setInterval(this.updateProgress, 2000);
     }
     renderSong() {
         const htmls = songs.map((song, idx) => {
