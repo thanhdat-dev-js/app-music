@@ -32,7 +32,7 @@ const songs = [
     {
         name: "Anh ta bỏ em rồi",
         singer: "Hương Giang",
-        path: "https://github.com/thanhdat4421/app-music/assets/song/1501864544223667902.mp3",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/1501864544223667902.mp3",
         image: " https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/3/4/b/d34b167ca36dcb3ee02f1a902ea57c57.jpg"
     }
 ]
