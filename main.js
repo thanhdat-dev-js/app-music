@@ -1,9 +1,9 @@
 const songs = [
     {
-        name: "Sai cách yêu",
-        singer: "Lê Bảo Bình",
-        path: "https://thanhdat4421.github.io/app-music/assets/song/3990206034272827168.mp3",
-        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/7/c/517ca58e0bb720d2e469e96259ef2bdd.jpg"
+        name: "Kẻ điên tin vào tình yêu",
+        singer: "Lil Z",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/6058182952062798020.mp3",
+        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg"
     },
     {
         name: "Bỏ em vào ba lô",
@@ -12,29 +12,47 @@ const songs = [
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/2/d/1/92d1087e7b366b4cf7d1539d37e5f610.jpg"
     },
     {
+        name: "Sick enough to die",
+        singer: "Quên xem",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/5006337826164027611.mp3",
+        image: "https://photo-zmp3.zadn.vn/audio_default.png"
+    },
+    {
+        name: "Trạm khí tượng",
+        singer: "Quên xem",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/TramKhiTuong-Uu-7005868.mp3",
+        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/2/d/1/92d1087e7b366b4cf7d1539d37e5f610.jpg"
+    },
+    {
+        name: "Chờ em nói câu xin chào trước",
+        singer: "Ca sĩ người Trung",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/ChoEmNoiCauXinChaoTruoc-KD-5726613.mp3",
+        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/7/c/517ca58e0bb720d2e469e96259ef2bdd.jpg"
+    },
+    {
         name: "Haru Haru",
         singer: "Big Bang",
         path: "https://thanhdat4421.github.io/app-music/assets/song/8012948398759953196.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e83bc89e7fed15678fab7e749509c3c3_1289491851.jpg"
-    },
-    {
-        name: "Chiều thu họa bóng nàng",
-        singer: "Ca sĩ bí ẩn",
-        path: "https://thanhdat4421.github.io/app-music/assets/song/7049726035475036059.mp3",
-        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg"
-    },
-    {
-        name: "Giá như cô ấy chưa xuất hiện",
-        singer: "Miu Lê",
-        path: "https://thanhdat4421.github.io/app-music/assets/song/3068542574464060159.mp3",
-        image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/d/5/f/0d5fd64189282d2411ca939024f7047e.jpg"
-    },
-    {
-        name: "Anh ta bỏ em rồi",
-        singer: "Hương Giang",
-        path: "https://thanhdat4421.github.io/app-music/assets/song/1501864544223667902.mp3",
-        image: " https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/3/4/b/d34b167ca36dcb3ee02f1a902ea57c57.jpg"
     }
+    // {
+    //     name: "Chiều thu họa bóng nàng",
+    //     singer: "Ca sĩ bí ẩn",
+    //     path: "https://thanhdat4421.github.io/app-music/assets/song/7049726035475036059.mp3",
+    //     image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/c/0/4/7/c047c4e29dbeda34deacbe2d8dbb71dc.jpg"
+    // },
+    // {
+    //     name: "Giá như cô ấy chưa xuất hiện",
+    //     singer: "Miu Lê",
+    //     path: "https://thanhdat4421.github.io/app-music/assets/song/3068542574464060159.mp3",
+    //     image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/d/5/f/0d5fd64189282d2411ca939024f7047e.jpg"
+    // },
+    // {
+    //     name: "Anh ta bỏ em rồi",
+    //     singer: "Hương Giang",
+    //     path: "https://thanhdat4421.github.io/app-music/assets/song/1501864544223667902.mp3",
+    //     image: " https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/3/4/b/d34b167ca36dcb3ee02f1a902ea57c57.jpg"
+    // }
 ]
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
