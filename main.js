@@ -2,19 +2,19 @@ const songs = [
     {
         name: "Sai cách yêu",
         singer: "Lê Bảo Bình",
-        path: "https://github.com/thanhdat4421/app-music/assets/song/3990206034272827168.mp3",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/3990206034272827168.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/5/1/7/c/517ca58e0bb720d2e469e96259ef2bdd.jpg"
     },
     {
         name: "Bỏ em vào ba lô",
         singer: "Tân Trần x Freak D",
-        path: "https://github.com/thanhdat4421/app-music/assets/song/8878561538087086642.mp3",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/8878561538087086642.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/2/d/1/92d1087e7b366b4cf7d1539d37e5f610.jpg"
     },
     {
         name: "Haru Haru",
         singer: "Big Bang",
-        path: "https://github.com/thanhdat4421/app-music/assets/song/8012948398759953196.mp3",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/8012948398759953196.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e83bc89e7fed15678fab7e749509c3c3_1289491851.jpg"
     },
     {
@@ -26,7 +26,7 @@ const songs = [
     {
         name: "Giá như cô ấy chưa xuất hiện",
         singer: "Miu Lê",
-        path: "https://github.com/thanhdat4421/app-music/assets/song/3068542574464060159.mp3",
+        path: "https://thanhdat4421.github.io/app-music/assets/song/3068542574464060159.mp3",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/0/d/5/f/0d5fd64189282d2411ca939024f7047e.jpg"
     },
     {
