@@ -137,7 +137,7 @@ class App {
             btn_random.classList.toggle('active-control');
         }
         progress.onchange = () => {
-            audio.currentTime = progress.value / 10000 * audio.duration;
+            audio.currentTime = Math.floor(progress.value / 10000 * audio.duration);
             this.updateProgress();
             audio.play();
             app.classList.add('playing');
@@ -235,7 +235,7 @@ class App {
     }
     updateProgress() {
         if (audio.duration) {
-            const currentTime = audio.currentTime / audio.duration * 10000;
+            const currentTime = Math.floor(audio.currentTime / audio.duration * 10000);
             progress.value = currentTime;
         }
     }
